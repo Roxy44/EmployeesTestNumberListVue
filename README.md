@@ -1,5 +1,16 @@
 # Тестовое задание на Vue без готовых ui компонентов
 
+## GitHub Pages
+
+Сайт: https://roxy44.github.io/EmployeesTestNumberListVue/
+
+```bash
+npm install
+npm run deploy
+```
+
+В репозитории: **Settings → Pages → Branch: `gh-pages` / root**.
+
 ## Задачи
 
 ### 1) Создайте таблицу и кнопку, вызывающую модальное окно с формой.
